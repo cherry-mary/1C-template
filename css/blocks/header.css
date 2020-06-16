@@ -1,0 +1,26 @@
+.header__panel {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 108px;
+}
+.header__panel-logo {
+    margin-bottom: 10px;
+}
+.header__panel-wrapper {
+    display: flex;
+    justify-content: space-between;
+    width: 420px;
+    height: 30px;
+}
+.header__panel-selection {
+    display: flex;
+    justify-content: space-between;
+    width: 182px;
+}
+.header__panel-registration {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 189px;
+}
